@@ -1,4 +1,4 @@
-# btcd packing
+# btcd packaging
 
 
 ## binaries
