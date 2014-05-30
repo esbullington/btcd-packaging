@@ -1,0 +1,6 @@
+sudo reprepro --ask-passphrase -Vb . -S utils -C main includedeb saucy /home/eric/repos/0.8-beta/*.deb
+dpkg-sig -k 3C895B59 --sign builder *.deb
+
+
+build deb:
+goxc -bc="linux" -pv=0.8 -n=golang-btcd-dev pkg-source

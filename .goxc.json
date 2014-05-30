@@ -1,0 +1,18 @@
+{
+	"AppName": "golang-btcd-dev",
+	"BuildConstraints": "linux",
+	"PackageVersion": "0.8",
+	"ConfigVersion": "0.9",
+	"TaskSettings": {
+		"pkg-build": {
+			"metadata": {
+				"description": "An alternative full node bitcoin implementation written in Go (golang)",
+				"maintainer": "Eric S. Bullington (http://www.ericbullington.com)"
+			},
+			"metadata-deb": {
+				"Depends": "",
+				"Homepage": "https://opensource.conformal.com/wiki/btcd"
+			}
+		}
+	}
+}

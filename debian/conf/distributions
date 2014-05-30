@@ -1,0 +1,10 @@
+Origin: apt.bitcoin-secured.com 
+Label: apt.bitcoin-secured.com repository
+Codename: saucy
+Architectures: amd64 i386 armhf source
+Components: main
+Description: btcd debian package repo
+SignWith: 3C895B59
+Pull: saucy
+DebOverride: override.saucy
+DscOverride: override.saucy
