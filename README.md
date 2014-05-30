@@ -2,7 +2,7 @@
 
 
 ## binaries
-[http://bitcoin-gateway.com/downloads/](http://bitcoin-gateway.com/downloads/)
+[https://bitcoin-gateway.com/downloads/](https://bitcoin-gateway.com/downloads/)
 
 ## apt repository
 * Add repo:
@@ -13,4 +13,4 @@
     sudo apt-get update
 
 ## signing key
-[http://bitcoin-gateway.com/downloads/signing-key.asc/](http://bitcoin-gateway.com/downloads/signing-key.asc)
+[https://bitcoin-gateway.com/downloads/signing-key.asc/](https://bitcoin-gateway.com/downloads/signing-key.asc)
